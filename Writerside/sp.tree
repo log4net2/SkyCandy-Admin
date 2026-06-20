@@ -2,11 +2,16 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="sp"
-                 name="MagicPack Plugin"
+<instance-profile id="sp" name="MagicPack Plugin"
                  start-page="01_MagicPack.md">
-    <toc-element topic="01_MagicPack.md">
-        <toc-element topic="02_General.md"/>
-        <toc-element topic="03_Commands.md"/>
-    </toc-element>
+
+    <toc-element topic="01_MagicPack.md"/>
+    <toc-element topic="02_General.md"/>
+    <toc-element topic="03_Commands.md"/>
+    <toc-element topic="04_BlockBench.md"/>
+    <toc-element topic="05_ItemBuilder.md"/>
+
+
 </instance-profile>
+
+
