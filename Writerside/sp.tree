@@ -3,17 +3,10 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="sp"
-                 name="SkyCandy Plugin"
-                 start-page="starter-topic.md">
-
-    <toc-element topic="starter-topic.md">
-        <toc-element topic="Về-ResourcePack.md"/>
-        <toc-element topic="Lệnh.md"/>
-        <toc-element topic="Cấu-Trúc-Pack.md"/>
-        <toc-element topic="Xây-Dựng-Pack.md">
-            <toc-element topic="Về-Vật-Phẩm.md">
-                <toc-element topic="Thêm-Model-Item.md"/>
-            </toc-element>
-        </toc-element>
+                 name="MagicPack Plugin"
+                 start-page="01_MagicPack.md">
+    <toc-element topic="01_MagicPack.md">
+        <toc-element topic="02_General.md"/>
+        <toc-element topic="03_Commands.md"/>
     </toc-element>
 </instance-profile>
