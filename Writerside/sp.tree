@@ -13,6 +13,10 @@
     <toc-element topic="06_ItemBowBuilder3D.md"/>
     <toc-element topic="07_ItemBowBuilder2D.md"/>
     <toc-element topic="08_ItemCrossBowBuilder2D.md"/>
+    <toc-element topic="09_Armor2D.md"/>
+    <toc-element topic="10_SoundPlay.md"/>
+    <toc-element topic="11_ModelEntity.md"/>
+    <toc-element topic="12_CustomFontImage.md"/>
 
 </instance-profile>
 

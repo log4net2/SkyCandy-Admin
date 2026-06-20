@@ -1,4 +1,4 @@
-# Thư Mục Chính
+# Thư Mục
 - Thư mục chính của MagicPack nằm tại **plugins/MagicPacks** và khi truy cập sẽ có nhiều thư mục con. Mỗi thư mục con sẽ có các nhiệm vụ nhất định
 ![image_4.png](image_4.png)
 

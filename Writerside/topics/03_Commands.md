@@ -1,4 +1,4 @@
-# Lệnh Cơ Bản
+# Lệnh Chính
 | Lệnh                  | Thông Tin                         |
 |-----------------------|-----------------------------------|
 | /magicpack build      | Xây dựng nhanh gói ResourcePack   | 

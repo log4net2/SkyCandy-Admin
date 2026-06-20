@@ -1,4 +1,4 @@
-# Model Vật Phẩm
+# Model Vật Phẩm (2D/3D)
 ## Lưu Ý
 - Để thêm được vật phẩm ta cần tệp tin sẽ ở định dạng `.bbmodel` và có thể xem cách chuyển đổi tại mục **BlockBench**
 ![image_10.png](image_10.png)
